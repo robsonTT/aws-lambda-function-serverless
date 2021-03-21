@@ -2,6 +2,10 @@
 
 # Computação em Nuvem - Construindo API REST com AWS
 
+
+![image](https://user-images.githubusercontent.com/54007079/111923484-384cc600-8a7e-11eb-8370-80a3006fcf62.png)
+
+
 ## Assuntos Envolvidos
 - Desenvolvimento de uma API para cadastro de clientes.
 - Linguagem utilizada JavaScript + NodeJS.
